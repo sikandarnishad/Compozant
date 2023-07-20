@@ -1,4 +1,4 @@
-# Compozant 
+# Compozent 
 # Internship Task
 Deploy the 2 task
 1.	Exploratory Data Analysis (EDA): Analyze a dataset and gain insights by creating visualizations and summary statistics.
